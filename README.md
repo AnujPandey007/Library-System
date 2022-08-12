@@ -1,4 +1,4 @@
-# Library-Management-System
+# Library System
 It is a library management system to issue books for students. I have used, HTML, CSS, Javascript, Java JSP, Oracle SQL Database to store the data. 
 
 ## Admin
