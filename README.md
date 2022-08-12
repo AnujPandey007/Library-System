@@ -13,8 +13,8 @@ Student can view, take and return the book as shown in screenshots.
 ## Screenshots
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/AnujPandey007/Library-System/master/screenshots/1.jpeg" width="100"/>
-  <img src="https://raw.githubusercontent.com/AnujPandey007/Library-System/master/screenshots/2.jpeg" width="100"/>
+  <img src="https://raw.githubusercontent.com/AnujPandey007/Library-System/master/screenshots/1.jpeg" width="200"/>
+  <img src="https://raw.githubusercontent.com/AnujPandey007/Library-System/master/screenshots/2.jpeg" width="200"/>
   <img src="https://raw.githubusercontent.com/AnujPandey007/Library-System/master/screenshots/3.jpeg" width="100"/>
   <img src="https://raw.githubusercontent.com/AnujPandey007/Library-System/master/screenshots/4.jpeg" width="100"/>
   <img src="https://raw.githubusercontent.com/AnujPandey007/Library-System/master/screenshots/6.jpeg" width="100"/>
